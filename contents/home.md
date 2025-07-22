@@ -1,17 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![HeZhunyan](https://img.shields.io/badge/HeZhunyan-github-blue?logo=github)](https://github.com/HeZhunyan)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+
+I am currently an undergraduate student majoring in Finance at Wenzhou-Kean University, with a strong interest in Computer Science and its applications in financial technologies.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zhunyanh[at]kean.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Finance, Wenzhou-Kean University, 2022—2026.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Photoacoustic probe design
+Photoacoustic/ultrasound imaging, image reconstruction
+Medical robots based on photoacoustic/ultrasound image guidance
+Continuous robot mechanism design for use in narrow spaces in the body, kinematic/dynamic control
 
