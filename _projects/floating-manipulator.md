@@ -1,6 +1,7 @@
 ---
 title: "Object Capture for a Manipulator Subject to Floating-Base Disturbances"
 collection: projects
+date: 2023-05-01
 topic: marine_robotics
 toc: true
 permalink: /projects/floating-manipulator/
