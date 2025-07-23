@@ -7,5 +7,5 @@ copyright-text: '&copy; Zhunyan He 2023-2025. All Rights Reserved.'
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: "/projects/:name/"
 
