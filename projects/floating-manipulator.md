@@ -9,7 +9,7 @@ excerpt: "<img src='/images/projects/floating-manipulator/floating-manipulator.g
 date: 2023-03-08
 ---
 
-{% include base_path %}
+
 *Last updated on July 2024.*
 
 ---
