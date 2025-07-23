@@ -1,4 +1,6 @@
 ---
+Total Projects Count: {{ site.projects | size }}
+
 layout: archive
 title: "Projects"
 permalink: /projects/

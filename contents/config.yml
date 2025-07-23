@@ -1,11 +1,12 @@
-title: Zhunyan He's Homepage
-page-top-title: Zhunyan He
-top-section-bg-text: Finance
-home-subtitle: Zhunyan He&estj;|&estj;何准言
-copyright-text: '&copy; Zhunyan He 2023-2025. All Rights Reserved.'
+title: "Zhunyan He's Homepage"
+page-top-title: "Zhunyan He"
+top-section-bg-text: "Finance"
+home-subtitle: "Zhunyan He | 何准言"
+copyright-text: "&copy; Zhunyan He 2023-2025. All Rights Reserved."
 
 collections:
   projects:
     output: true
     permalink: "/projects/:name/"
+
 
