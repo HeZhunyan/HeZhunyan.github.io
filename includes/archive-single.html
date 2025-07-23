@@ -1,0 +1,32 @@
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+  {% if post.excerpt contains "<img" %}
+    <!-- 如果 excerpt 里已经是带图 HTML，就直接显示 -->
+    <div class="archive__item-teaser">
+      {{ post.excerpt }}
+    </div>
+  {% endif %}
+
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </h2>
+
+  {% if post.abstract %}
+    <p class="archive__item-excerpt" itemprop="description">
+      {{ post.abstract | markdownify }}
+    </p>
+  {% elsif post.excerpt and post.excerpt contains "<img" == false %}
+    <p class="archive__item-excerpt" itemprop="description">
+      {{ post.excerpt | markdownify }}
+    </p>
+  {% endif %}
+
+  {% if post.date %}
+    <p class="archive__item-date">
+      <i class="fa fa-calendar" aria-hidden="true"></i>
+      {{ post.date | date: "%B %d, %Y" }}
+    </p>
+  {% endif %}
+
+  <hr>
+</article>
