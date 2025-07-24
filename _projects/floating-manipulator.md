@@ -1,15 +1,15 @@
 ---
 title: "Object Capture for a Manipulator Subject to Floating-Base Disturbances"
 collection: projects
-date: 2023-03-08
 topic: marine_robotics
 toc: true
 permalink: /projects/floating-manipulator/
 abstract: "Research project I participated in at CUHK-Shenzhen, supervised by <a href='https://sse.cuhk.edu.cn/en/faculty/qianhuihuan'>Prof. QIAN Huihuan</a>, 2022 ~ 2023. In this project, I assisted a Ph.D. student in proposing and implementing a motion planning algorithm that allows a floating-base manipulator to capture objects under the disturbance of base motion." 
 excerpt: "<img src='/images/projects/floating-manipulator/floating-manipulator.gif' width='700px'>"
+date: 2023-03-08
 ---
 
-
+{% include base_path %}
 *Last updated on July 2024.*
 
 ---

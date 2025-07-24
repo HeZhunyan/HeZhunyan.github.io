@@ -1,2 +1,8 @@
-*.DS_Store
-
+_site/
+images/posts/*.tex
+images/posts/*.pdf
+images/posts/*.sty
+_source/*_cache
+.Rproj.user
+.sass-cache
+Gemfile.lock
