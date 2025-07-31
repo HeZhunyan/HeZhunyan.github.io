@@ -2,22 +2,25 @@
 permalink: /
 layout: archive_wide
 title: "About Me"
-excerpt: "Welcome to Zixing's homepage!"
+excerpt: "Welcome to Zhunyan's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my homepage! I'm a M.Phil. student in the [Advanced Bio-Medical Robotics Lab](https://research.surgery.cuhk.edu.hk/lizhengrobotics/), [Department of Surgery](https://www.surgery.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), supervised by [Prof. LI Zheng](https://www.surgery.cuhk.edu.hk/profile.asp?alias=zli). I'm dedicated to studying and modeling medical procedures and delivering innovative and effective engineering solutions, including robotics and computer science, to improve their quality, efficiency, safety, and availability.
+Welcome to my homepage!  
+I am currently a third-year undergraduate student majoring in Finance at Wenzhou-Kean University. Although my academic background is in business, I have a strong passion for computer science and its applications in financial technology (FinTech) and medical robotics.  
 
-Prior to CUHK, I earned my B.Eng. degree in Electronic Information Engineering (computer engineering stream) from [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) in 2023. During my studies, I spent three years in the [Robotics & AI Lab](https://rail.cuhk.edu.cn/), under the mentorship of [Prof. QIAN Huihuan](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan) (marine robotics group) and [Prof. SUN Zhenglong](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong) (surgical robotics group).
+My interests span a variety of interdisciplinary areas, including photoacoustic probe design, photoacoustic/ultrasound imaging and reconstruction, and the development of medical robots guided by imaging. I am particularly curious about the design and control of continuum robots for navigation and operation in narrow anatomical environments.  
 
+I enjoy exploring how engineering and computational techniques can enhance both financial systems and healthcare technologies.
 
 ## Research Interests
-Robotics / Medical Robotics / Surgical Robotics<br/>
-Imaged-Guided Robotic Interventions<br/>
-Robot-Assisted Imaging
+Photoacoustic probe design
+Photoacoustic/ultrasound imaging, image reconstruction
+Medical robots based on photoacoustic/ultrasound image guidance
+Continuous robot mechanism design for use in narrow spaces in the body, kinematic/dynamic control
 
 
 ## For more info
