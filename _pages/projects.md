@@ -8,7 +8,8 @@ toc: true
 {% include base_path %}
 {% assign sortedProjects = site.projects | sort: 'date' | reverse %}
 
-This page contains a selection of my current and previous research/course/toy projects, categorized by topic. --- _Last updated in March 2025_.
+Here are my current and past projects in robotics and medical imaging, grouped by topic.
+
 
 ## Image-Guided Robotic Interventions
 ---
