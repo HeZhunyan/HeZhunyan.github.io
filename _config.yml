@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "HE Zhunyan"
-  avatar           : "D:/gerenzhuye/HeZhunyan.github.io/images/hzy.jpg"
+  avatar           : "/images/hzy.jpg"
   bio              : "Undergraduate student at Wenzhou-Kean University"
   location         : "Wen Zhou, China"
   employer         : 
