@@ -45,7 +45,7 @@ More details to be disclosed as the project progresses.
   {% endif %}
 {% endfor %}
 
-## ABC
+## abc
 ---
 
 {% for post in sortedProjects %}
@@ -53,7 +53,6 @@ More details to be disclosed as the project progresses.
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
 
 ## Others
 ---

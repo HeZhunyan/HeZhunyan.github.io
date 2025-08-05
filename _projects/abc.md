@@ -1,7 +1,7 @@
 ---
 title: "abc"
 collection: projects
-topic: ABC
+topic: abc
 toc: true
 permalink: /projects/abc/
 abstract: xxx
